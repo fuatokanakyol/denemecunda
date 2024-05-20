@@ -1,0 +1,9 @@
+{
+    "loginPage": {
+      "invalidCredentialsMessage": "Account credentials are invalid",
+      "validEmail": "yadiguzel@gmail.com",
+      "invalidEmail" : "deneme@mail.com",
+      "validPasword" :"Pg9915061!",
+      "invalidPassword":"deneme123"
+    }
+  }
